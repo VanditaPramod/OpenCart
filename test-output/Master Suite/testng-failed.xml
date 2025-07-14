@@ -13,20 +13,13 @@
       </run>
     </groups>
     <classes>
-      <class name="com.oc.qa.TestCases.RegistrationTest">
+      <class name="com.oc.qa.TestCases.AddressTest">
         <methods>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="Acc_RegistrationTest"/>
+          <include name="Addressupdate"/>
         </methods>
-      </class> <!-- com.oc.qa.TestCases.RegistrationTest -->
-      <class name="com.oc.qa.TestCases.LoginTest">
-        <methods>
-          <include name="setup"/>
-          <include name="Acc_LoginTest"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- com.oc.qa.TestCases.LoginTest -->
+      </class> <!-- com.oc.qa.TestCases.AddressTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->

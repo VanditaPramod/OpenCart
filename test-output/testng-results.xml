@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-14T15:49:37 IST" name="Master Suite" finished-at="2024-12-14T15:49:49 IST" duration-ms="12391">
+  <suite started-at="2025-07-14T15:43:30 IST" name="Master Suite" finished-at="2025-07-14T15:44:55 IST" duration-ms="84182">
     <groups>
       <group name="Master">
-        <method signature="SearchProductTest.SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" name="SearchproductTest" class="com.oc.qa.TestCases.SearchProductTest"/>
+        <method signature="AddressTest.Addressupdate()[pri:0, instance:com.oc.qa.TestCases.AddressTest@68759011]" name="Addressupdate" class="com.oc.qa.TestCases.AddressTest"/>
       </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@2a39fe6a]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
+        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@76ba13c]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="AddressTest.Addressupdate()[pri:0, instance:com.oc.qa.TestCases.AddressTest@68759011]" name="Addressupdate" class="com.oc.qa.TestCases.AddressTest"/>
+        <method signature="LoginTest.Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@2a39fe6a]" name="Acc_LoginTest" class="com.oc.qa.TestCases.LoginTest"/>
+        <method signature="LoginTestDDT.verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTestDDT@410ae9a3]" name="verify_loginDDT" class="com.oc.qa.TestCases.LoginTestDDT"/>
+        <method signature="RegistrationTest.Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@76ba13c]" name="Acc_RegistrationTest" class="com.oc.qa.TestCases.RegistrationTest"/>
+        <method signature="SearchProductTest.SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@319988b0]" name="SearchproductTest" class="com.oc.qa.TestCases.SearchProductTest"/>
+      </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-12-14T15:49:37 IST" name="Test" finished-at="2024-12-14T15:49:49 IST" duration-ms="12391">
-      <class name="com.oc.qa.TestCases.SearchProductTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" started-at="2024-12-14T15:49:37 IST" name="setup" finished-at="2024-12-14T15:49:39 IST" duration-ms="2151" status="PASS">
+    <test started-at="2025-07-14T15:43:30 IST" name="Test" finished-at="2025-07-14T15:44:55 IST" duration-ms="84182">
+      <class name="com.oc.qa.TestCases.AddressTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.AddressTest@68759011]" started-at="2025-07-14T15:44:44 IST" name="setup" finished-at="2025-07-14T15:44:45 IST" duration-ms="1587" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,15 +37,220 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" started-at="2024-12-14T15:49:39 IST" name="SearchproductTest" finished-at="2024-12-14T15:49:49 IST" duration-ms="9853" status="PASS">
+        <test-method signature="Addressupdate()[pri:0, instance:com.oc.qa.TestCases.AddressTest@68759011]" started-at="2025-07-14T15:44:45 IST" name="Addressupdate" finished-at="2025-07-14T15:44:54 IST" duration-ms="9050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addressupdate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.AddressTest@68759011]" started-at="2025-07-14T15:44:54 IST" name="teardown" finished-at="2025-07-14T15:44:55 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.oc.qa.TestCases.AddressTest -->
+      <class name="com.oc.qa.TestCases.RegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@76ba13c]" started-at="2025-07-14T15:43:31 IST" name="setup" finished-at="2025-07-14T15:43:33 IST" duration-ms="2619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Acc_RegistrationTest()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@76ba13c]" started-at="2025-07-14T15:43:33 IST" name="Acc_RegistrationTest" finished-at="2025-07-14T15:43:35 IST" duration-ms="1837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acc_RegistrationTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.RegistrationTest@76ba13c]" started-at="2025-07-14T15:43:35 IST" name="teardown" finished-at="2025-07-14T15:43:35 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.oc.qa.TestCases.RegistrationTest -->
+      <class name="com.oc.qa.TestCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTest@2a39fe6a]" started-at="2025-07-14T15:43:35 IST" name="setup" finished-at="2025-07-14T15:43:37 IST" duration-ms="1714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Acc_LoginTest()[pri:0, instance:com.oc.qa.TestCases.LoginTest@2a39fe6a]" started-at="2025-07-14T15:43:37 IST" name="Acc_LoginTest" finished-at="2025-07-14T15:43:38 IST" duration-ms="1220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acc_LoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.LoginTest@2a39fe6a]" started-at="2025-07-14T15:43:38 IST" name="teardown" finished-at="2025-07-14T15:43:38 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.oc.qa.TestCases.LoginTest -->
+      <class name="com.oc.qa.TestCases.SearchProductTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@319988b0]" started-at="2025-07-14T15:44:32 IST" name="setup" finished-at="2025-07-14T15:44:34 IST" duration-ms="2051" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchproductTest()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@319988b0]" started-at="2025-07-14T15:44:34 IST" name="SearchproductTest" finished-at="2025-07-14T15:44:44 IST" duration-ms="9832" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchproductTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@545de5a4]" started-at="2024-12-14T15:49:49 IST" name="teardown" finished-at="2024-12-14T15:49:49 IST" duration-ms="136" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.SearchProductTest@319988b0]" started-at="2025-07-14T15:44:44 IST" name="teardown" finished-at="2025-07-14T15:44:44 IST" duration-ms="163" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.oc.qa.TestCases.SearchProductTest -->
+      <class name="com.oc.qa.TestCases.LoginTestDDT">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTestDDT@410ae9a3]" started-at="2025-07-14T15:43:38 IST" name="setup" finished-at="2025-07-14T15:43:40 IST" duration-ms="1500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTestDDT@410ae9a3]" started-at="2025-07-14T15:43:41 IST" name="verify_loginDDT" data-provider="LoginData" finished-at="2025-07-14T15:43:46 IST" duration-ms="4532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vanditanaik@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Tester123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method signature="verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTestDDT@410ae9a3]" started-at="2025-07-14T15:43:46 IST" name="verify_loginDDT" data-provider="LoginData" finished-at="2025-07-14T15:44:00 IST" duration-ms="14125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Tester123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method signature="verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTestDDT@410ae9a3]" started-at="2025-07-14T15:44:00 IST" name="verify_loginDDT" data-provider="LoginData" finished-at="2025-07-14T15:44:13 IST" duration-ms="13601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vanditapramod@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Tester1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method signature="verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTestDDT@410ae9a3]" started-at="2025-07-14T15:44:13 IST" name="verify_loginDDT" data-provider="LoginData" finished-at="2025-07-14T15:44:27 IST" duration-ms="13613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gdgk2@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method signature="verify_loginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.oc.qa.TestCases.LoginTestDDT@410ae9a3]" started-at="2025-07-14T15:44:27 IST" name="verify_loginDDT" data-provider="LoginData" finished-at="2025-07-14T15:44:31 IST" duration-ms="4389" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vanditapramod@mailinator.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[@Tester123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_loginDDT -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.oc.qa.TestCases.LoginTestDDT@410ae9a3]" started-at="2025-07-14T15:44:31 IST" name="teardown" finished-at="2025-07-14T15:44:32 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.oc.qa.TestCases.LoginTestDDT -->
     </test> <!-- Test -->
   </suite> <!-- Master Suite -->
 </testng-results>

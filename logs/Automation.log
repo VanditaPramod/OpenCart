@@ -83,3 +83,512 @@
 2024-12-14 15:49:44 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
 2024-12-14 15:49:44 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
 2024-12-14 15:49:44 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-14 20:05:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-14 20:05:33 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-14 20:05:33 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-14 20:05:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-14 20:05:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 20:05:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-14 20:05:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-14 20:05:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-14 20:05:35 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-14 20:05:35 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-14 20:05:36 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-14 20:05:36 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-14 20:05:39 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-14 20:05:39 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-14 20:05:39 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-20 13:11:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-20 13:11:58 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-20 13:11:58 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-20 13:11:58 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-20 13:11:58 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-20 13:11:58 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-20 13:11:59 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-20 13:11:59 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-20 13:11:59 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-20 13:11:59 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-20 13:12:00 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-20 13:12:00 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-20 13:12:03 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-20 13:12:03 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-20 13:12:03 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-20 13:12:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-20 13:13:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
+2024-12-20 13:13:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
+2024-12-20 13:13:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
+2024-12-20 13:13:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
+2024-12-20 13:13:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
+2024-12-20 13:13:01 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
+2024-12-20 13:13:02 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
+2024-12-20 13:13:02 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
+2024-12-20 13:13:02 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
+2024-12-20 13:13:02 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
+2024-12-20 13:13:04 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
+2024-12-20 13:13:04 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
+2024-12-20 13:13:04 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
+2024-12-20 13:13:04 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
+2024-12-20 13:13:05 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
+2024-12-20 13:13:05 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
+2024-12-20 13:13:08 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-20 13:13:08 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-20 13:13:08 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:09 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-20 13:13:09 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-20 13:13:09 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-20 13:13:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-20 13:13:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-20 13:13:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-20 13:13:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-20 13:13:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-20 13:13:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-20 13:13:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-20 13:13:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-20 13:13:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-20 13:13:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-20 13:13:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-20 13:13:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-20 13:13:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-20 13:13:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-20 13:13:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:55 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-20 13:13:55 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-20 13:13:55 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-20 13:13:55 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:55 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-20 13:13:55 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-20 13:13:55 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-20 13:13:59 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-20 13:14:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-20 13:14:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-20 13:14:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-20 13:14:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-20 13:14:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-20 13:14:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-20 13:14:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-20 13:14:02 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-20 13:14:02 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-20 13:14:02 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-20 13:14:02 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-20 13:14:05 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-20 13:14:05 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-20 13:14:06 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-29 19:02:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-29 19:02:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
+2024-12-29 19:02:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
+2024-12-29 19:02:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
+2024-12-29 19:02:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
+2024-12-29 19:02:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
+2024-12-29 19:02:36 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
+2024-12-29 19:02:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
+2024-12-29 19:02:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
+2024-12-29 19:02:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
+2024-12-29 19:02:37 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
+2024-12-29 19:02:39 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
+2024-12-29 19:02:39 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
+2024-12-29 19:02:40 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
+2024-12-29 19:02:40 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
+2024-12-29 19:02:40 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
+2024-12-29 19:02:40 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
+2024-12-29 19:02:44 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-29 19:02:44 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-29 19:02:44 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:02:44 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-29 19:02:44 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-29 19:02:44 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:02:48 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-29 19:02:48 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-29 19:02:48 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-29 19:02:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:02:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-29 19:02:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-29 19:02:49 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:03:03 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-29 19:03:03 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-29 19:03:03 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-29 19:03:03 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:03:04 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-29 19:03:04 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-29 19:03:04 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:03:18 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-29 19:03:18 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-29 19:03:18 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-29 19:03:18 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:03:18 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-29 19:03:18 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-29 19:03:19 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:03:32 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-29 19:03:32 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-29 19:03:32 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-29 19:03:32 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:03:33 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-29 19:03:33 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-29 19:03:33 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-29 19:03:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-29 19:03:40 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-29 19:03:40 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-29 19:03:40 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-29 19:03:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-29 19:03:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-29 19:03:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-29 19:03:41 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-29 19:03:42 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-29 19:03:42 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-29 19:03:42 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-29 19:03:43 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-29 19:03:46 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-29 19:03:46 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-29 19:03:46 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-30 00:49:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-30 00:54:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-30 00:54:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
+2024-12-30 00:54:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
+2024-12-30 00:54:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
+2024-12-30 00:54:52 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
+2024-12-30 00:54:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
+2024-12-30 00:54:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
+2024-12-30 00:54:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
+2024-12-30 00:54:53 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
+2024-12-30 00:54:54 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
+2024-12-30 00:54:54 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
+2024-12-30 00:54:56 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
+2024-12-30 00:54:56 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
+2024-12-30 00:54:56 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
+2024-12-30 00:54:57 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
+2024-12-30 00:54:57 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
+2024-12-30 00:54:57 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
+2024-12-30 00:55:02 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-30 00:55:02 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-30 00:55:02 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:02 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-30 00:55:03 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-30 00:55:03 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-30 00:55:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-30 00:55:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-30 00:55:07 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:08 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-30 00:55:08 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-30 00:55:09 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:22 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-30 00:55:22 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-30 00:55:22 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-30 00:55:23 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:23 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-30 00:55:23 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-30 00:55:23 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-30 00:55:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-30 00:55:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-30 00:55:37 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:38 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-30 00:55:38 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-30 00:55:38 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-30 00:55:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2024-12-30 00:55:51 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2024-12-30 00:55:52 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:52 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2024-12-30 00:55:52 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2024-12-30 00:55:52 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2024-12-30 00:55:56 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2024-12-30 00:55:59 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2024-12-30 00:55:59 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2024-12-30 00:55:59 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2024-12-30 00:55:59 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-30 00:56:00 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2024-12-30 00:56:00 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2024-12-30 00:56:00 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2024-12-30 00:56:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2024-12-30 00:56:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2024-12-30 00:56:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2024-12-30 00:56:01 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2024-12-30 00:56:04 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2024-12-30 00:56:05 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2024-12-30 00:56:05 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2024-12-30 00:56:14 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2024-12-30 00:56:14 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2024-12-30 00:56:14 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2024-12-30 00:56:14 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 00:56:15 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2024-12-30 00:56:15 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2024-12-30 00:56:15 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 00:56:16 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2024-12-30 00:56:16 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2024-12-30 00:56:16 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2024-12-30 00:56:16 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2024-12-30 01:01:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-30 01:01:23 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2024-12-30 01:01:23 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2024-12-30 01:01:23 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2024-12-30 01:01:23 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:01:24 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2024-12-30 01:01:24 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2024-12-30 01:01:24 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:01:25 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2024-12-30 01:01:25 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2024-12-30 01:01:25 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2024-12-30 01:01:29 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2024-12-30 01:03:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-30 01:03:11 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2024-12-30 01:03:11 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2024-12-30 01:03:11 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2024-12-30 01:03:11 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:03:12 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2024-12-30 01:03:12 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2024-12-30 01:03:12 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:03:13 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2024-12-30 01:03:13 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2024-12-30 01:03:13 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2024-12-30 01:03:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2024-12-30 01:03:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Company Name
+2024-12-30 01:03:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address1
+2024-12-30 01:03:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address2
+2024-12-30 01:03:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered city
+2024-12-30 01:03:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Postal Code
+2024-12-30 01:03:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Country from the Dropdown
+2024-12-30 01:04:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-30 01:04:08 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2024-12-30 01:04:08 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2024-12-30 01:04:08 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2024-12-30 01:04:08 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:04:09 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2024-12-30 01:04:09 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2024-12-30 01:04:09 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:04:10 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2024-12-30 01:04:10 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2024-12-30 01:04:10 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2024-12-30 01:04:11 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2024-12-30 01:04:11 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Company Name
+2024-12-30 01:04:11 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address1
+2024-12-30 01:04:11 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address2
+2024-12-30 01:04:11 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered city
+2024-12-30 01:04:11 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Postal Code
+2024-12-30 01:04:14 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Country from the Dropdown
+2024-12-30 01:05:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-30 01:05:48 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2024-12-30 01:05:48 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2024-12-30 01:05:48 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2024-12-30 01:05:48 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:05:48 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2024-12-30 01:05:49 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2024-12-30 01:05:49 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:05:49 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2024-12-30 01:05:50 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2024-12-30 01:05:50 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2024-12-30 01:05:50 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2024-12-30 01:05:51 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Company Name
+2024-12-30 01:05:51 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address1
+2024-12-30 01:05:51 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address2
+2024-12-30 01:05:51 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered city
+2024-12-30 01:05:51 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Postal Code
+2024-12-30 01:05:54 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Country from the Dropdown
+2024-12-30 01:05:58 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Region from the Dropdown
+2024-12-30 01:05:58 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Continue
+2024-12-30 01:05:58 [main] INFO  com.oc.qa.TestCases.AddressTest - Verify Success message
+2024-12-30 01:08:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-30 01:08:37 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2024-12-30 01:08:37 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2024-12-30 01:08:37 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2024-12-30 01:08:37 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:08:38 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2024-12-30 01:08:38 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2024-12-30 01:08:38 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 01:08:39 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2024-12-30 01:08:39 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2024-12-30 01:08:40 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2024-12-30 01:08:40 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2024-12-30 01:08:40 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Company Name
+2024-12-30 01:08:40 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address1
+2024-12-30 01:08:40 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address2
+2024-12-30 01:08:40 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered city
+2024-12-30 01:08:40 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Postal Code
+2024-12-30 01:08:44 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Country from the Dropdown
+2024-12-30 01:08:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Region from the Dropdown
+2024-12-30 01:08:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Continue
+2024-12-30 01:08:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Verify Success message
+2024-12-30 18:08:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-30 18:08:15 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2024-12-30 18:08:15 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2024-12-30 18:08:15 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2024-12-30 18:08:15 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 18:08:16 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2024-12-30 18:08:16 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2024-12-30 18:08:16 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 18:08:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2024-12-30 18:08:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2024-12-30 18:08:18 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2024-12-30 18:08:18 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2024-12-30 18:08:19 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Company Name
+2024-12-30 18:08:19 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address1
+2024-12-30 18:08:19 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address2
+2024-12-30 18:08:19 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered city
+2024-12-30 18:08:19 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Postal Code
+2024-12-30 18:08:22 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Country from the Dropdown
+2024-12-30 18:08:26 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Region from the Dropdown
+2024-12-30 18:08:26 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Continue
+2024-12-30 18:08:26 [main] INFO  com.oc.qa.TestCases.AddressTest - Verify Success message
+2024-12-30 23:36:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2024-12-30 23:36:17 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2024-12-30 23:36:17 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2024-12-30 23:36:17 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2024-12-30 23:36:18 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 23:36:18 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2024-12-30 23:36:18 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2024-12-30 23:36:18 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2024-12-30 23:36:19 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2024-12-30 23:36:19 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2024-12-30 23:36:20 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2024-12-30 23:36:20 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2024-12-30 23:36:20 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Company Name
+2024-12-30 23:36:20 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address1
+2024-12-30 23:36:21 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address2
+2024-12-30 23:36:21 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered city
+2024-12-30 23:36:21 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Postal Code
+2024-12-30 23:36:24 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Country from the Dropdown
+2024-12-30 23:36:27 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Region from the Dropdown
+2024-12-30 23:36:27 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Continue
+2024-12-30 23:36:28 [main] INFO  com.oc.qa.TestCases.AddressTest - Verify Success message
+2025-07-14 15:40:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2025-07-14 15:40:27 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2025-07-14 15:40:27 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2025-07-14 15:40:28 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2025-07-14 15:40:28 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2025-07-14 15:40:28 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2025-07-14 15:40:28 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2025-07-14 15:40:28 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2025-07-14 15:40:29 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2025-07-14 15:40:29 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2025-07-14 15:40:30 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2025-07-14 15:40:30 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2025-07-14 15:40:30 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Company Name
+2025-07-14 15:40:30 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address1
+2025-07-14 15:40:30 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address2
+2025-07-14 15:40:30 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered city
+2025-07-14 15:40:30 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Postal Code
+2025-07-14 15:40:33 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Country from the Dropdown
+2025-07-14 15:40:36 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Region from the Dropdown
+2025-07-14 15:40:37 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Continue
+2025-07-14 15:40:37 [main] INFO  com.oc.qa.TestCases.AddressTest - Verify Success message
+2025-07-14 15:43:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vandita\Desktop\eclipse-workspace\OpenCart\Master.xml
+
+2025-07-14 15:43:33 [main] INFO  com.oc.qa.TestCases.RegistrationTest - *** Registration test started ***
+2025-07-14 15:43:33 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on My Account
+2025-07-14 15:43:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Clicked on Register
+2025-07-14 15:43:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter first, last, email and Telephone
+2025-07-14 15:43:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter password
+2025-07-14 15:43:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Enter confirm password
+2025-07-14 15:43:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on privacy
+2025-07-14 15:43:34 [main] INFO  com.oc.qa.TestCases.RegistrationTest - Click on continue button
+2025-07-14 15:43:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - confirmation message
+2025-07-14 15:43:35 [main] INFO  com.oc.qa.TestCases.RegistrationTest - ****Registration testing completed*****
+2025-07-14 15:43:37 [main] INFO  com.oc.qa.TestCases.LoginTest - *** Login test started ***
+2025-07-14 15:43:37 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on My Account
+2025-07-14 15:43:37 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
+2025-07-14 15:43:37 [main] INFO  com.oc.qa.TestCases.LoginTest - Enter an Email
+2025-07-14 15:43:37 [main] INFO  com.oc.qa.TestCases.LoginTest - Entered Password
+2025-07-14 15:43:38 [main] INFO  com.oc.qa.TestCases.LoginTest - Clicked on Login button
+2025-07-14 15:43:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2025-07-14 15:43:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2025-07-14 15:43:41 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:43:42 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2025-07-14 15:43:42 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2025-07-14 15:43:42 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:43:46 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2025-07-14 15:43:46 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2025-07-14 15:43:46 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2025-07-14 15:43:46 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:43:46 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2025-07-14 15:43:46 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2025-07-14 15:43:46 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:44:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2025-07-14 15:44:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2025-07-14 15:44:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2025-07-14 15:44:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:44:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2025-07-14 15:44:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2025-07-14 15:44:00 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:44:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2025-07-14 15:44:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2025-07-14 15:44:13 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2025-07-14 15:44:14 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:44:14 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2025-07-14 15:44:14 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2025-07-14 15:44:14 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:44:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2025-07-14 15:44:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** stating TC_003_LoginDDT ******
+2025-07-14 15:44:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on My Account
+2025-07-14 15:44:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:44:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Enter an Email
+2025-07-14 15:44:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Entered Password
+2025-07-14 15:44:27 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - Clicked on Login button
+2025-07-14 15:44:31 [main] INFO  com.oc.qa.TestCases.LoginTestDDT - ***** Finished TC_003_LoginDDT ******
+2025-07-14 15:44:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** SearchProductTest test started ***
+2025-07-14 15:44:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - *** Login test started ***
+2025-07-14 15:44:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on My Account
+2025-07-14 15:44:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2025-07-14 15:44:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter an Email
+2025-07-14 15:44:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Entered Password
+2025-07-14 15:44:34 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Clicked on Login button
+2025-07-14 15:44:35 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Enter product name
+2025-07-14 15:44:35 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on search button
+2025-07-14 15:44:35 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Click on List view button
+2025-07-14 15:44:35 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name
+2025-07-14 15:44:38 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Add the product to cart
+2025-07-14 15:44:38 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Go to cart
+2025-07-14 15:44:38 [main] INFO  com.oc.qa.TestCases.SearchProductTest - Check the product name from the cart
+2025-07-14 15:44:45 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Address test started ***
+2025-07-14 15:44:45 [main] INFO  com.oc.qa.TestCases.AddressTest - *** Login test started ***
+2025-07-14 15:44:45 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on My Account
+2025-07-14 15:44:45 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2025-07-14 15:44:46 [main] INFO  com.oc.qa.TestCases.AddressTest - Enter an Email
+2025-07-14 15:44:46 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Password
+2025-07-14 15:44:46 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on Login button
+2025-07-14 15:44:46 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Address book entry URL
+2025-07-14 15:44:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Clicked on new address button
+2025-07-14 15:44:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered First Name
+2025-07-14 15:44:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Last Name
+2025-07-14 15:44:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Company Name
+2025-07-14 15:44:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address1
+2025-07-14 15:44:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Address2
+2025-07-14 15:44:47 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered city
+2025-07-14 15:44:48 [main] INFO  com.oc.qa.TestCases.AddressTest - Entered Postal Code
+2025-07-14 15:44:51 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Country from the Dropdown
+2025-07-14 15:44:54 [main] INFO  com.oc.qa.TestCases.AddressTest - Select the Region from the Dropdown
+2025-07-14 15:44:54 [main] INFO  com.oc.qa.TestCases.AddressTest - Click on Continue
+2025-07-14 15:44:54 [main] INFO  com.oc.qa.TestCases.AddressTest - Verify Success message

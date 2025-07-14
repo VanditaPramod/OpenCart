@@ -20,7 +20,7 @@ public class RegistrationTest extends BaseClass {
 	
 	
 	
-	@Test(groups={"Regression","Master"})
+	@Test(groups={"Regression","Sanity"})
 	public void Acc_RegistrationTest() throws InterruptedException
 	{
 		try

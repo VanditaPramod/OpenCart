@@ -5,9 +5,10 @@
 <suite name="Master Suite">
 	<groups>
 		<run>
-	<!-- 		<include name="Sanity"></include>
-			<include name="Regression"> </include> -->
+	 		<include name="Sanity"></include>
+			<include name="Regression"> </include>
 			<include name="Master"></include> 
+			
 		<!--	<exclude name="Master"></exclude>-->
 		</run>
 	</groups>
@@ -18,10 +19,11 @@
 	<parameter name="OS" value="Windows"></parameter>
 	  <parameter name="Browser" value="chrome"></parameter> 	  
     <classes>
-      <!--	<class name="com.oc.qa.TestCases.RegistrationTest"/> 
+      	<class name="com.oc.qa.TestCases.RegistrationTest"/> 
       	<class name="com.oc.qa.TestCases.LoginTest"/> 
-      <class name="com.oc.qa.TestCases.LoginTestDDT"/> -->
+      <class name="com.oc.qa.TestCases.LoginTestDDT"/> 
    		<class name="com.oc.qa.TestCases.SearchProductTest"/> 
+   		<class name="com.oc.qa.TestCases.AddressTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
