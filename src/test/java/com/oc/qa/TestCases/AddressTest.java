@@ -16,7 +16,8 @@ public class AddressTest extends BaseClass {
 	{
 		try
 		{
-		logger.info("*** Address test started ***");
+		logger.info(""
+				+ "");
 		logger.info("*** Login test started ***");
 		//Home Page
 		HomePage hp=new HomePage(driver);
